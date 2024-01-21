@@ -1,1 +1,1 @@
-# Basic Components of a React Native and Expo App
+# A Hands-on Guide to Creating React Native & Expo Apps with Basic Components
